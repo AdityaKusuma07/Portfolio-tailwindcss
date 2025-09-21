@@ -1,1 +1,4 @@
 @import "tailwindcss";
+@themes {
+  --text-primary: oklch(70.4% 0.14 182.503);
+}
